@@ -1,0 +1,25 @@
+{
+	"name": "npm-calculator",
+	"version": "1.0.1",
+	"description": "A demo npm-calculator",
+	"main": "index.js",
+	"scripts": {
+		"test": "jasmine-node specs/"
+		},
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/krishnavteja/npm-module-calculator.git"
+			},
+			"keywords": [
+			"calculator"
+			],
+			"author": "Krishna Veeramachaneni",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/krishnavteja/npm-module-calculator/issues"
+				},
+				"homepage": "https://github.com/krishnavteja/npm-module-calculator",
+				"devDependencies": {
+					"jasmine-node": "~1.13.1"
+				}
+			}
